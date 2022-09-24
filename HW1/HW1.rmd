@@ -16,7 +16,7 @@ library(ggplot2)
 
 ## 1. DATA EXPLORATION
 
-Due to the nunber of fields in this data, I broke the dataset into intuitive sections and explored each section individually.
+Due to the number of fields in this data, I broke the dataset into intuitive sections and explored each section individually.
 
 ```{r}
 eval_df <- read.csv("https://raw.githubusercontent.com/catfoodlover/DATA621/main/HW1/moneyball-evaluation-data.csv")
